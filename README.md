@@ -2,4 +2,5 @@
  
  ## Preview
  
- ![WhatsApp Image 2019-12-10 at 14 43 22 (1)](https://user-images.githubusercontent.com/13824041/71184993-57e0b780-2259-11ea-9f46-b3150b0ddf00.jpeg)
+![HomeScreen](https://user-images.githubusercontent.com/13824041/71185179-b1e17d00-2259-11ea-84c7-045d3cecbf8b.jpeg)
+![LoginScreen](https://user-images.githubusercontent.com/13824041/71185189-b4dc6d80-2259-11ea-882f-69b341f0ae8f.jpeg)
